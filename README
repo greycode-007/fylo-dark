@@ -1,0 +1,62 @@
+# fylo-dark
+A landing page for a cloud-based, file sharing company,  built using HTML5 and CSS3.
+# Cloud based, file distribution website - landing page solution
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Screenshot
+
+![](images/Screenshot%20(174).png)
+
+
+### Links
+
+- Live Site URL: [live site here](https://greycode-007.github.io/fylo-dark/#)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned
+
+This project encouraged me to think about the box like i would normally world. It also made me to really realise the power of flexbox and how important is it to build complex project layout.
+
+### Continued development
+
+Like i mentioned either, i realised the real power of flexbox with the project. In the coming days, i would be focusing more on building layouts with it so i can perfect my skill of building complex layout.
+
+## Author
+
+- Website - [Stanley Anosike](https://greycode-007.github.io/portfolio/)
+- Linkedin - [@stanleyanosike](https://www.linkedin.com/in/stanley-anosike)
+- Twitter - [@stanleymm2](https://www.twitter.com/stanleymm2)
+
+## Acknowledgments
+
+Thanks to God almighty for the inspiration. Also a big thank you to frontend Mentors for motivating web developers like my self.
+

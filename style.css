@@ -645,17 +645,22 @@ padding-left: 60px;
 
 /* Two flex child container */
 
-.first-footer .first-child{
+.first-child{
   background-color: none;
-  height:120px;
+  height:auto;
+  margin-bottom: 5px;
 }
 
-.first-footer .second-child{
-  background-color: none;
-  height: 120px;
+.first-child img {
+  width: 25%;
+  max-width: 30%;
+  height:auto;
+}
+
+.second-child{
+  height: auto;
   width: 100%;
 }
-
 
  .text {
   color: white;
@@ -859,9 +864,12 @@ padding-left: 60px;
 
     }
     
-    .first-footer {
-      margin-bottom: 30px;
+  
+    .first-child{
+      background-color: none;
+      height:auto;
     }
+
     
     .first-footer .pngimage {
       width: 7%;
@@ -872,12 +880,12 @@ padding-left: 60px;
       font-size: 0.9em;
       width: 90%;
       font-weight: normal;
-      padding-top: 20px;
+      padding-top: 5px;
       padding-right: 2px;
     }
     
     .second-footer{
-      margin-bottom: 30px;
+      margin-bottom: 20px;
       }
   }
 
