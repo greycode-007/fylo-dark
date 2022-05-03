@@ -75,5 +75,5 @@ Iike i mentioned either, i realised the real power of flexbox with this project.
 
 ## Acknowledgments
 
-Thanks to God almighty for the inspiration. Also a big thank you to frontend Mentors for motivating web developers like my self.
+Thanks to God almighty for the inspiration.
 
