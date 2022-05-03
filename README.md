@@ -1,6 +1,5 @@
-# Frontend Mentor - Fylo dark theme landing page solution
-
-This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# A landing page for a cloud-based, file sharing company.
+ Cloud based, file distribution website - landing page solution
 
 ## Table of contents
 
@@ -15,7 +14,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Visit Website ](https://your-live-site-url.com)
 
 ## My process
 
@@ -47,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-This project encouraged me to think about the box like i would normally world. It also made me to really realise the power of flexbox and how important is it to build complex project layout.
+This project encouraged me to think outside the box like i would normally world. It also made me to really realise the power of flexbox and how important is it to build complex project layout.
 
 
 ```html
@@ -67,7 +64,7 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-Iike i mentioned either, i realised the real power of flexbox with the project. In the more days, i would be focusing more on building layouts with it so i can be perfect at building complex layout with it.
+Iike i mentioned either, i realised the real power of flexbox with this project. In the coming days, i would be focusing more on building layouts with it so i can be perfect at building complex layout.
 
 ## Author
 
@@ -75,7 +72,6 @@ Iike i mentioned either, i realised the real power of flexbox with the project. 
 - Linkedin - [@stanleyanosike](https://www.linkedin.com/profile/stanleyanosike)
 - Twitter - [@stanleymm2](https://www.twitter.com/stanleymm2)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
